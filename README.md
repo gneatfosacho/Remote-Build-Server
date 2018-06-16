@@ -6,7 +6,7 @@ In order to successfully implement big systems we need to partition code into re
 
 The process, described above, supports continuous integration. That is, when new code is created for a system, we build and test it in the context of other code which it calls, and which call it. As soon as all the tests pass, we check in the code and it becomes part of the current baseline. There are several services necessary to efficiently support continuous integration.
 
-![](1.PNG)
+![](images/1.PNG)
 
 A Federation of servers with each providing a dedicated service for continuous integration consists of:
 
@@ -19,13 +19,13 @@ A Federation of servers with each providing a dedicated service for continuous i
 **Client:** The user's primary interface into the Federation, serves to submit code and test requests to the Repository. Later, it will be used view test results, stored in the repository.
 
 ![](diag.PNG)
-![](2.PNG)
-![](3.PNG)
+![](images/2.PNG)
+![](images/3.PNG)
 
 ## Screenshots
-![](4.PNG)
-![](5.PNG)
-![](6.PNG)
-![](7.PNG)
-![](8.PNG)
-![](9.PNG)
+![](images/4.PNG)
+![](images/5.PNG)
+![](images/6.PNG)
+![](images/7.PNG)
+![](images/8.PNG)
+![](images/9.PNG)
