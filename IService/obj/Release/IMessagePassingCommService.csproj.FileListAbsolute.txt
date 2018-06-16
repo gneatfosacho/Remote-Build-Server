@@ -1,0 +1,6 @@
+C:\B. VisualStudioRepos\Project4\IService\bin\Release\IService.dll.config
+C:\B. VisualStudioRepos\Project4\IService\bin\Release\IService.dll
+C:\B. VisualStudioRepos\Project4\IService\bin\Release\IService.pdb
+C:\B. VisualStudioRepos\Project4\IService\obj\Release\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\B. VisualStudioRepos\Project4\IService\obj\Release\IService.dll
+C:\B. VisualStudioRepos\Project4\IService\obj\Release\IService.pdb

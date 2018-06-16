@@ -1,0 +1,6 @@
+C:\B. VisualStudioRepos\Project4\TestDeserialization\bin\Release\TestDeserialization.exe.config
+C:\B. VisualStudioRepos\Project4\TestDeserialization\bin\Release\TestDeserialization.exe
+C:\B. VisualStudioRepos\Project4\TestDeserialization\bin\Release\TestDeserialization.pdb
+C:\B. VisualStudioRepos\Project4\TestDeserialization\obj\Release\Serialization.csproj.CoreCompileInputs.cache
+C:\B. VisualStudioRepos\Project4\TestDeserialization\obj\Release\TestDeserialization.exe
+C:\B. VisualStudioRepos\Project4\TestDeserialization\obj\Release\TestDeserialization.pdb

@@ -1,0 +1,7 @@
+C:\Users\rahul\Google Drive\Fall 2017 Courses\1. SMA\4. Project Work\2. Project 2\z. extra\TestSerialization\TestDeserialization\bin\Debug\TestDeserialization.exe.config
+C:\Users\rahul\Google Drive\Fall 2017 Courses\1. SMA\4. Project Work\2. Project 2\z. extra\TestSerialization\TestDeserialization\bin\Debug\TestDeserialization.exe
+C:\Users\rahul\Google Drive\Fall 2017 Courses\1. SMA\4. Project Work\2. Project 2\z. extra\TestSerialization\TestDeserialization\bin\Debug\TestDeserialization.pdb
+C:\Users\rahul\Google Drive\Fall 2017 Courses\1. SMA\4. Project Work\2. Project 2\z. extra\TestSerialization\TestDeserialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\rahul\Google Drive\Fall 2017 Courses\1. SMA\4. Project Work\2. Project 2\z. extra\TestSerialization\TestDeserialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Google Drive\Fall 2017 Courses\1. SMA\4. Project Work\2. Project 2\z. extra\TestSerialization\TestDeserialization\obj\Debug\TestDeserialization.exe
+C:\Users\rahul\Google Drive\Fall 2017 Courses\1. SMA\4. Project Work\2. Project 2\z. extra\TestSerialization\TestDeserialization\obj\Debug\TestDeserialization.pdb

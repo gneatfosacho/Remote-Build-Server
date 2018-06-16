@@ -1,0 +1,2 @@
+C:\B. VisualStudioRepos\Project4\TestRequest\obj\Release\TestRequest.csprojResolveAssemblyReference.cache
+C:\B. VisualStudioRepos\Project4\TestRequest\obj\Release\TestRequest.csproj.CoreCompileInputs.cache

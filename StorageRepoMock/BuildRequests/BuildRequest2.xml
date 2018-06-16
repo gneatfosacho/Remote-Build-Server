@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BuildRequest>
+  <author>Rahul Kadam</author>
+  <dateTime>12/6/2017 5:46:18 PM</dateTime>
+  <tests>
+    <BuildElement>
+      <testName>TestDriver1.cs</testName>
+      <testDriver>TestDriver1.cs</testDriver>
+      <testCodes>
+        <string>TestDriver1TestFile1.cs</string>
+        <string>TestDriver1TestFile2.cs</string>
+      </testCodes>
+    </BuildElement>
+    <BuildElement>
+      <testName>TestDriver2.cs</testName>
+      <testDriver>TestDriver2.cs</testDriver>
+      <testCodes>
+        <string>TestDriver2TestFile1.cs</string>
+        <string>TestDriver2TestFile2.cs</string>
+      </testCodes>
+    </BuildElement>
+  </tests>
+</BuildRequest>

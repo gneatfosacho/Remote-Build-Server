@@ -1,0 +1,10 @@
+C:\B. VisualStudioRepos\Project4\TestRequest\bin\Debug\TestRequest.exe.config
+C:\B. VisualStudioRepos\Project4\TestRequest\bin\Debug\TestRequest.exe
+C:\B. VisualStudioRepos\Project4\TestRequest\bin\Debug\TestRequest.pdb
+C:\B. VisualStudioRepos\Project4\TestRequest\bin\Debug\TestDeserialization.exe
+C:\B. VisualStudioRepos\Project4\TestRequest\bin\Debug\TestDeserialization.pdb
+C:\B. VisualStudioRepos\Project4\TestRequest\bin\Debug\TestDeserialization.exe.config
+C:\B. VisualStudioRepos\Project4\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\B. VisualStudioRepos\Project4\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\B. VisualStudioRepos\Project4\TestRequest\obj\Debug\TestRequest.exe
+C:\B. VisualStudioRepos\Project4\TestRequest\obj\Debug\TestRequest.pdb

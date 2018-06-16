@@ -1,0 +1,2 @@
+C:\B. VisualStudioRepos\Project4\RepoMock\obj\Release\RepoMock.csprojResolveAssemblyReference.cache
+C:\B. VisualStudioRepos\Project4\RepoMock\obj\Release\RepoMock.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\B. VisualStudioRepos\Project4\TestHarnessMock\obj\Release\TestHarnessMock.csprojResolveAssemblyReference.cache
+C:\B. VisualStudioRepos\Project4\TestHarnessMock\obj\Release\TestHarnessMock.csproj.CoreCompileInputs.cache

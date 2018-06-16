@@ -1,0 +1,2 @@
+C:\B. VisualStudioRepos\Project4\Builder\obj\Release\ChildBuilder.csprojResolveAssemblyReference.cache
+C:\B. VisualStudioRepos\Project4\Builder\obj\Release\ChildBuilder.csproj.CoreCompileInputs.cache

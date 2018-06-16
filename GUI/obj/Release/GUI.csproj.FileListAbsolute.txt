@@ -1,0 +1,5 @@
+C:\B. VisualStudioRepos\Project4\GUI\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\B. VisualStudioRepos\Project4\GUI\obj\Release\App.g.cs
+C:\B. VisualStudioRepos\Project4\GUI\obj\Release\MainWindow.g.cs
+C:\B. VisualStudioRepos\Project4\GUI\obj\Release\GUI_MarkupCompile.cache
+C:\B. VisualStudioRepos\Project4\GUI\obj\Release\GUI_MarkupCompile.lref

@@ -1,0 +1,2 @@
+C:\B. VisualStudioRepos\Project4\MessagePassingCommService\obj\Release\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\B. VisualStudioRepos\Project4\MessagePassingCommService\obj\Release\MessagePassingCommService.csproj.CoreCompileInputs.cache

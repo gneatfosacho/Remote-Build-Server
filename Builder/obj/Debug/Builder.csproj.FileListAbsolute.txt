@@ -1,0 +1,16 @@
+C:\Project3\Builder\bin\Debug\Builder.exe.config
+C:\Project3\Builder\bin\Debug\Builder.exe
+C:\Project3\Builder\bin\Debug\Builder.pdb
+C:\Project3\Builder\bin\Debug\IService.dll
+C:\Project3\Builder\bin\Debug\PluggableCommService.exe
+C:\Project3\Builder\bin\Debug\TestUtilities.exe
+C:\Project3\Builder\bin\Debug\IService.pdb
+C:\Project3\Builder\bin\Debug\IService.dll.config
+C:\Project3\Builder\bin\Debug\PluggableCommService.pdb
+C:\Project3\Builder\bin\Debug\PluggableCommService.exe.config
+C:\Project3\Builder\bin\Debug\TestUtilities.pdb
+C:\Project3\Builder\bin\Debug\TestUtilities.exe.config
+C:\Project3\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Project3\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Project3\Builder\obj\Debug\Builder.exe
+C:\Project3\Builder\obj\Debug\Builder.pdb

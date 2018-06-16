@@ -1,0 +1,14 @@
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\TestHarnessMock\bin\Debug\TestHarnessMock.exe.config
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\TestHarnessMock\bin\Debug\TestHarnessMock.exe
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\TestHarnessMock\bin\Debug\TestHarnessMock.pdb
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\TestHarnessMock\obj\Debug\TestHarnessMock.csprojResolveAssemblyReference.cache
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\TestHarnessMock\obj\Debug\TestHarnessMock.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\TestHarnessMock\obj\Debug\TestHarnessMock.exe
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\TestHarnessMock\obj\Debug\TestHarnessMock.pdb
+C:\Users\rahul\Google Drive\VisualStudioRepos\Project2\TestHarnessMock\bin\Debug\TestHarnessMock.exe.config
+C:\Users\rahul\Google Drive\VisualStudioRepos\Project2\TestHarnessMock\bin\Debug\TestHarnessMock.exe
+C:\Users\rahul\Google Drive\VisualStudioRepos\Project2\TestHarnessMock\bin\Debug\TestHarnessMock.pdb
+C:\Users\rahul\Google Drive\VisualStudioRepos\Project2\TestHarnessMock\obj\Debug\TestHarnessMock.csprojResolveAssemblyReference.cache
+C:\Users\rahul\Google Drive\VisualStudioRepos\Project2\TestHarnessMock\obj\Debug\TestHarnessMock.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Google Drive\VisualStudioRepos\Project2\TestHarnessMock\obj\Debug\TestHarnessMock.exe
+C:\Users\rahul\Google Drive\VisualStudioRepos\Project2\TestHarnessMock\obj\Debug\TestHarnessMock.pdb
